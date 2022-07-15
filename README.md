@@ -1,0 +1,4 @@
+- 👋 Hi, I’m GopalaGovindharaju
+- 👀 I’m interested in Android application development
+- 🌱 I’m currently learning java and kotlin
+- 📫 gopala200218@gmail.com
